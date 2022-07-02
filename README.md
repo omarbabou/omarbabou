@@ -12,7 +12,7 @@ I’m Omar Babou, a frontend web developer doing all things creative to make the
 - 🔭 A Micronaut 🚀.
 - 🌱 Currently learning ES6, Webpack, React.
 - 👯 Looking to work with software engineers globally.
-- -⚡ Coffee, motion graphics, music and art are my happy places
+- ⚡ Coffee, motion graphics, music and art are my happy places
 - 👨🏾‍💻 I enjoy bringing a static design or idea to life and learning new technologies.
 
 ## Find me around the web 🌎: 
